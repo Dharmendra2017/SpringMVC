@@ -1,7 +1,9 @@
+package com.springjava;
+
 class Hello
 {
 public static void main(String args[])
 {
-Systm.out.println("Hello first change");
+System.out.println("Hello first change");
 }
 }
